@@ -1,0 +1,41 @@
+html,body
+{width: 100%;
+height: 100%;
+background-color: rgb(62, 155, 104);}
+
+article
+{width: 100%;
+    height: 20%;
+    background-color: rgb(219, 33, 148);}
+aside
+{width: 20%;
+    height: 60%;
+    float:right;
+    background-color: rgb(35, 5, 145);}
+footer
+   {width: 100%;
+    height: 20%;
+    float: left;
+    background-color: yellow;}
+    
+    section
+   {width: 20%;
+    height: 20%;
+    margin-top: 30%;
+    margin-bottom: 20px ;
+    background-color: rgb(216, 140, 27);}
+    section
+    {width: 20%;
+     height: 20%;
+     margin-bottom: 20px ;
+     background-color: rgb(216, 140, 27);}
+     section
+     {width: 20%;
+      height: 20%;
+      margin-bottom: 20px ;
+      background-color: rgb(216, 140, 27);}
+      section
+      {width: 20%;
+       height: 20%;
+       margin-bottom: 20px ;
+       background-color: rgb(216, 140, 27);}
